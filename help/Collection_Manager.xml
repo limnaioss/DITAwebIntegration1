@@ -1,0 +1,18 @@
+<?xml version="1.0"?><!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd"[]><concept id="conceptd5b6f5f3-6060-48db-96cd-77325165d07c">
+  <title id="title7a78929b-3028-4dcb-80ad-371d58f60c61">Collection Manager</title>
+  <shortdesc>The Collection Manager widget is a place to store content that is
+	 important to you. 
+  </shortdesc>
+  <prolog>
+    <metadata>
+      <keywords/>
+    </metadata>
+    <resourceid appname="DITAweb_help" id="dw_Widget_collectionMgr"/>
+  </prolog>
+  <conbody>
+    <p id="p212d0f33-b908-4e54-9259-fdcfb18053bf">The Collection Manager widget is a place to store and organise bookmarks
+		to topics that you use often. You can bookmark a topic and store bookmarks in
+		different folders so that you can find the bookmarked content again easily. 
+	 </p>
+  </conbody>
+</concept>

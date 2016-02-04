@@ -1,0 +1,35 @@
+<?xml version="1.0"?><!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd"[]><task id="taskf80f92fb-5adc-4b31-9e6e-2f88e91851af">
+  <title id="titlebd879be3-c641-476b-abc5-502109ed6886">Bookmarking a Topic</title>
+  <shortdesc>How to add a topic to a collection
+  </shortdesc>
+  <taskbody>
+    <steps id="steps_1E38C33E13374626AEC6798C9A8B97CC">
+      <step id="step_3A90D8E9E2584EBCBFB6185F03B68304">
+        <cmd>Open the topic you want to bookmark. 
+		  </cmd>
+      </step>
+      <step id="step_4A176E2EBDC04A83A98DA7B431BAF243">
+        <cmd>Click 
+			 <uicontrol>Add bookmark.</uicontrol></cmd>
+        <stepresult>The 
+			 <uicontrol>Add bookmark</uicontrol> dialog appears.
+		  </stepresult>
+      </step>
+      <step id="step_5834E9EBCFC146068A3614DAAB208A81">
+        <cmd>Select a folder to save the bookmark in:
+		  </cmd>
+        <choices id="choices_0F42BE8D3FBD4B77B045DE0B37BFD7DC">
+          <choice id="choice_4D165534F21B41F7B1F7D1458317F1C1">To save the
+				bookmark to an existing folder, click the name of the folder.
+			 </choice>
+          <choice id="choice_04DDB7011EAE4FD59F7D824A56AE76CC">To save the
+				bookmark to a new folder, type the name of the folder in the New folder box and
+				click 
+				<uicontrol>Create folder and add bookmark</uicontrol></choice>
+        </choices>
+        <stepresult>The bookmark appears in your chosen folder
+		  </stepresult>
+      </step>
+    </steps>
+  </taskbody>
+</task>

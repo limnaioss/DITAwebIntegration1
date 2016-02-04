@@ -1,0 +1,17 @@
+<?xml version="1.0"?><!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd"[]><concept id="conceptd5b6f5f3-6060-48db-96cd-77325165d07c">
+  <title id="title3662683d-65c9-4008-a493-36410fd02916">My History</title>
+  <shortdesc>The My History widget shows the ten most recent topics you have
+	 viewed. 
+  </shortdesc>
+  <prolog>
+    <metadata>
+      <keywords/>
+    </metadata>
+    <resourceid appname="DITAweb_help" id="dw_Widget_publicationTree"/>
+  </prolog>
+  <conbody>
+    <p id="paa4eedbb-8703-4c81-9d86-2986bf4f65cc">The My History widget shows the ten most recent topics you have viewed,
+		so that you can easily access recently viewed content. 
+	 </p>
+  </conbody>
+</concept>

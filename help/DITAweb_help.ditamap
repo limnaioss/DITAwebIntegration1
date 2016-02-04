@@ -1,0 +1,12 @@
+<?xml version="1.0"?><!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd"[  ]><map id="map_213B1F8B002441C3BC8F6E0637DF1C86" xml:lang="en">
+  <topicref format="dita" href="Collaboration_Page.xml" navtitle="Collaboration View" scope="local">
+    <topicref format="dita" href="Contents.xml" navtitle="Contents" scope="local"/>
+    <topicref format="dita" href="Publication.xml" navtitle="Publication" scope="local"/>
+    <topicref format="dita" href="Search.xml" navtitle="Searching for content" scope="local"/>
+    <topicref format="dita" href="Collection_Manager.xml" navtitle="Collection Manager" scope="local">
+      <topicref format="dita" href="Bookmarking_a_Topic.xml" navtitle="Bookmarking a Topic" scope="local"/>
+    </topicref>
+    <topicref format="dita" href="My_History.xml" navtitle="My History" scope="local"/>
+    <topicref format="dita" href="Messages.xml" navtitle="Messages" scope="local"/>
+  </topicref>
+</map>

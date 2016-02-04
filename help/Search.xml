@@ -1,0 +1,25 @@
+<?xml version="1.0"?><!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd"[]><task id="taskf80f92fb-5adc-4b31-9e6e-2f88e91851af">
+  <title id="titlee9ce37c0-58b5-410e-9909-e11b7abb5b2f">Searching for content</title>
+  <shortdesc>You can search for content within a publication
+  </shortdesc>
+  <taskbody>
+    <steps id="steps_48773DA06D2E435298E4FF794B76B7E7">
+      <step id="step_8538C8868901414792748D677C78F1C7">
+        <cmd>Type the text you want to search for in the search box.
+		  </cmd>
+      </step>
+      <step id="step_6DB03B657E194DDB812D2867913B3238">
+        <cmd>Click the 
+			 <uicontrol>Search</uicontrol> button
+		  </cmd>
+        <stepresult>A list of topics containing the search terms appears.
+			 Search terms are highlighted in yellow.
+		  </stepresult>
+      </step>
+      <step id="step_2E9C17D1E6BF43C6A33042C21E65F61E">
+        <cmd>Click the topic title to view that topic.
+		  </cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>

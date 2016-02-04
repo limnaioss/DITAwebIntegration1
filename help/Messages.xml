@@ -1,0 +1,11 @@
+<?xml version="1.0"?><!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd"[]><concept id="conceptd5b6f5f3-6060-48db-96cd-77325165d07c">
+  <title id="title1cf9beb3-1ca0-4ab7-b3e7-963339a573d4">Messages</title>
+  <shortdesc>About the Messages widget 
+  </shortdesc>
+  <conbody>
+    <p id="pecb61bf7-8437-41f9-b514-a400566ca2c5">The Messages widget shows a record of system activity, recording events
+		such as check-in and checkout of topics, connection and disconnection from the
+		server etc.
+	 </p>
+  </conbody>
+</concept>

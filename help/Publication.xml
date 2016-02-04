@@ -1,0 +1,20 @@
+<?xml version="1.0"?><!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd"[]><concept id="conceptd5b6f5f3-6060-48db-96cd-77325165d07c">
+  <title id="title5b63b692-d5ba-497b-bc88-a99773100153">Publications</title>
+  <shortdesc>The Publications widget displays publications that are available
+	 for you to view. 
+  </shortdesc>
+  <conbody>
+    <p id="p26c7d0ee-caec-4ecb-a623-27958d685eb6">A publication is a DITAmap, that has been published to DITAweb.
+		Publishing a map to DITAweb means that the map has been converted to HTML so
+		that it can be displayed in a web browser. If you use DITAval files to manage
+		conditional text, you can publish the same map with different DITAval files to
+		create separate but linked publications. 
+	 </p>
+    <p id="p472de316-f78f-41d4-9625-230c7c2c4f23">The Publications widget displays a list of publications that you have
+		permission to view. The individual topics in the publication are displayed in
+		the 
+		<xref format="dita" href="Contents.xml#conceptd5b6f5f3-6060-48db-96cd-77325165d07c" scope="local" type="concept">Contents</xref> widget. 
+	 </p>
+    <p/>
+  </conbody>
+</concept>

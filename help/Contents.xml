@@ -1,0 +1,18 @@
+<?xml version="1.0"?><!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd"[]><concept id="conceptd5b6f5f3-6060-48db-96cd-77325165d07c">
+  <title id="titlec7c81e77-b076-400e-9a1f-ef9223375472">Contents</title>
+  <shortdesc>The Contents widget displays the topics in a publication as a
+	 table of contents. 
+  </shortdesc>
+  <prolog>
+    <metadata>
+      <keywords/>
+    </metadata>
+    <resourceid appname="DITAweb_help" id="dw_Widget_contentTree"/>
+  </prolog>
+  <conbody>
+    <p id="p84c538b1-6449-4e37-bb44-f959e8020a6f">The Contents widget acts like a table of contents that enables you to
+		see what topics are included in a publication. For a selected publication, the
+		contents widgets shows topics in a tree structure. 
+	 </p>
+  </conbody>
+</concept>
